@@ -1,0 +1,104 @@
+.back {
+    background-color:cornflowerblue;
+    height: 700px;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+    font-family: Courier New, monospace;
+    font-style: italic;
+}
+.mid {
+   background-color: white;
+   height: 550px;
+   width: 750px;
+   margin-top: 5px;
+}
+.name {
+    text-align: center;
+    width: 700px;
+    height: 50px;
+    display: inline-block;
+    
+}
+input{
+    border-radius: 10px;
+    border-style: solid;
+    height: 40px;
+    width: 200px;
+    float: left;
+    margin-left: 35px;
+    background-color: 	#abcdef;
+    border-style:hidden;
+    color: #1e90ff;
+    font-family: Courier New, monospace;
+    font-style: italic;
+}
+.first {
+    width:  280px;
+}
+.last{
+    width: 280px;
+    margin-left: 15px;
+}
+
+.email {
+    width:  280px;
+}
+.phone {
+    width: 280px;
+    margin-left: 15px;
+}
+
+.text{
+    height: 100px;
+    width: 575px;
+}
+.adress1 {
+    width: 575px;
+    height: 50px; 
+}
+
+
+.dane {
+    text-align: center;
+    width: 700px;
+    height: 50px;
+    display: inline-block;
+    margin-top: 5px;
+}
+.adress {
+    text-align: center;
+    width: 700px;
+    height: 70px;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.button1 {
+    border-radius: 25px;
+    margin-top: 20px;
+    height: 50px;
+    width: 125px;
+    background-color: blue;
+    color: white;
+    border-style:hidden;
+    float: center;
+    font-family: Courier New, monospace;
+    font-style: italic;
+}
+button {
+margin-left: 300px;
+}
+.start {
+    margin-left: 35px;
+    font-size: 35px;
+    color: #1e90ff;
+}
+
+.end {
+    margin-left: 35px;
+    color: greenyellow;
+}
